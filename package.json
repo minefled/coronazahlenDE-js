@@ -1,0 +1,20 @@
+{
+  "name": "coronazahlen",
+  "version": "1.0.0",
+  "description": "Javascript API Wrapper for https://api.corona-zahlen.org/",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minefled/coronazahlenDE-js.git"
+  },
+  "author": "minefled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minefled/coronazahlenDE-js/issues"
+  },
+  "homepage": "https://github.com/minefled/coronazahlenDE-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
